@@ -1,2 +1,2 @@
 # Monuments of the World
-# Screen Shot
+# Screen Captures
